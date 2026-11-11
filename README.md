@@ -49,18 +49,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fhudint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhudint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="top langs" />
+<img height="170" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+<img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+
+<img height="170" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img height="170" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 
 <img src="https://streak-stats.demolab.com?user=fhudint&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa" alt="streak" />
-
-</div>
-
-### ✦ Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fhudint&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 
 </div>
 
