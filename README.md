@@ -1,53 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=fhudint&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=building%20quietly%20%C2%B7%20shipping%20loudly&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=fhudint&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=crafting%20code%20%E2%9C%A6%20chasing%20ideas&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/fhudint">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Hi%2C+I%27m+fhudint+%F0%9F%91%8B;I+love+coding+%26+building+useful+things;Linux+%7C+Open+Source+%7C+Coffee+%E2%98%95" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+fhudint+%F0%9F%91%8B;I+build+things+for+the+web;Linux+enthusiast+%7C+Open+source+lover;Fueled+by+coffee+%E2%98%95+and+curiosity" alt="typing" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=fhudint&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="views" />
+<a href="https://github.com/fhudint?tab=followers"><img src="https://img.shields.io/github/followers/fhudint?style=for-the-badge&logo=github&color=ec4899&labelColor=0d1117" alt="followers" /></a>
+<a href="https://github.com/fhudint?tab=repositories"><img src="https://img.shields.io/github/stars/fhudint?style=for-the-badge&logo=apachespark&logoColor=white&color=a78bfa&labelColor=0d1117" alt="stars" /></a>
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fhudint&style=flat-square&color=8b5cf6&label=VIEWS)
-![Followers](https://img.shields.io/github/followers/fhudint?style=flat-square&color=8b5cf6&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/fhudint?style=flat-square&color=ec4899&labelColor=0d1117)
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding gif" />
 
-</div>
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="26" /> About me
 
----
+```console
+fhudint@fedora:~$ neofetch
 
-### ✦ About me
-
-```text
- ~ $ whoami
- fhudint
-
- ~ $ cat now.txt
- 🔭  Working on     : fun little side projects
- 🌱  Learning       : something new every day
- 🤝  Open to        : collaboration & open source
- 💬  Ask me about   : Linux, web, and tooling
+        OS ➜  Fedora Linux
+      ROLE ➜  Developer
+   FOCUSED ➜  building fun, useful things
+  LEARNING ➜  something new, every single day
+   OPEN TO ➜  collabs & open source
+ ASK ME ON ➜  linux · web · tooling
+    UPTIME ➜  ∞ (powered by coffee ☕)
 ```
 
-### ✦ Tech stack
+<br clear="right"/>
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-</div>
+### ⚡ Tech I play with
 
-### ✦ GitHub stats
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="tools" />
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python&theme=dark" alt="languages" />
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+### 📊 GitHub stats
 
 <img height="170" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
 <img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
@@ -55,16 +54,26 @@
 <img height="170" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
 <img height="170" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 
-<img src="https://streak-stats.demolab.com?user=fhudint&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=fhudint&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=c9d1d9" alt="streak" />
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
----
+### 🐍 Contribution snake
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fhudint/fhudint/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fhudint/fhudint/output/github-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/fhudint/fhudint/output/github-snake.svg" width="100%" alt="snake" />
+</picture>
 
-> *"Make it work, make it right, make it pretty."*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="footer" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+<br/><br/>
+
+**✦ thanks for stopping by — have a great day! ✦**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="footer" />
 
 </div>
