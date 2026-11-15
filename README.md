@@ -3,8 +3,8 @@
 ### $ cat about.txt
 
 ```text
-os        fedora linux
-role      developer
+os        currently fedora
+role      just human being
 stack     javascript · typescript · python · bash
 focus     linux, web, tooling, open source
 status    building useful things, one commit at a time
