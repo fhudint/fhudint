@@ -1,64 +1,37 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="fhudint — terminal header: linux · web · tooling" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=fhudint&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+### $ cat about.txt
 
-</div>
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Halo 🇮🇩, I'm fhudint! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="coding gif" />
-
-<p><em>Developer who loves Linux, the web, and building useful things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"></em></p>
-
-[![GitHub followers](https://img.shields.io/github/followers/fhudint?label=Follow&style=social)](https://github.com/fhudint)
-![Profile Views](https://komarev.com/ghpvc/?username=fhudint&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Waka Readme](https://github.com/fhudint/fhudint/workflows/Waka%20Readme/badge.svg)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
-```javascript
-const fhudint = {
-  name: "fhudint",
-  location: "Indonesia 🇮🇩",
-  os: "Fedora Linux",
-  languages: ["JavaScript", "TypeScript", "Python", "Bash"],
-  askMeAbout: ["linux", "web dev", "tooling", "open source"],
-  technologies: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["Node.js", "Python"],
-    tools: ["Git", "GitHub Actions", "VS Code"],
-  },
-  currentFocus: "building fun, useful things — one commit at a time",
-  funFact: "most bugs disappear after a cup of coffee ☕",
-};
+```text
+os        fedora linux
+role      developer
+stack     javascript · typescript · python · bash
+focus     linux, web, tooling, open source
+status    building useful things, one commit at a time
+contact   say hi — issues and PRs are always welcome
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+### $ ls skills/
 
----
+![JavaScript](https://img.shields.io/badge/javascript-1E293B?style=flat-square&logo=javascript&logoColor=94A3B8)
+![TypeScript](https://img.shields.io/badge/typescript-1E293B?style=flat-square&logo=typescript&logoColor=94A3B8)
+![Python](https://img.shields.io/badge/python-1E293B?style=flat-square&logo=python&logoColor=94A3B8)
+![Node.js](https://img.shields.io/badge/node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=94A3B8)
+![Bash](https://img.shields.io/badge/bash-1E293B?style=flat-square&logo=gnubash&logoColor=94A3B8)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Fedora](https://img.shields.io/badge/fedora-0F172A?style=flat-square&logo=fedora&logoColor=22C55E)
+![Git](https://img.shields.io/badge/git-0F172A?style=flat-square&logo=git&logoColor=22C55E)
+![GitHub Actions](https://img.shields.io/badge/actions-0F172A?style=flat-square&logo=githubactions&logoColor=22C55E)
+![VS Code](https://img.shields.io/badge/vscode-0F172A?style=flat-square&logo=vscodium&logoColor=22C55E)
 
-**These Readme stats are generated using the github action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+### $ git log --stat
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-### 🐍 Contribution snake
+<img src="https://streak-stats.demolab.com?user=fhudint&hide_border=true&background=0F172A&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B&border_radius=14" alt="contribution streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fhudint/fhudint/output/github-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fhudint/fhudint/output/github-snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/fhudint/fhudint/output/github-snake.svg" width="100%" alt="snake" />
+  <img src="https://raw.githubusercontent.com/fhudint/fhudint/output/github-snake.svg" width="100%" alt="contribution snake" />
 </picture>
 
-<img src="https://streak-stats.demolab.com?user=fhudint&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=c9d1d9" alt="streak" />
-
-<br/><br/>
-
-**✦ thanks for stopping by — have a great day! ✦**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="footer" />
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="exit — thanks for stopping by" />

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" fill="none" role="img" aria-label="exit — thanks for stopping by">
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="94" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
+  <text x="48" y="56" class="mono" font-size="18">
+    <tspan fill="#22C55E">$</tspan>
+    <tspan fill="#94A3B8" dx="8">exit</tspan>
+  </text>
+  <rect x="124" y="40" width="10" height="20" fill="#22C55E" class="cursor"/>
+  <text x="1152" y="56" class="mono" font-size="15" fill="#475569" text-anchor="end">// thanks for stopping by</text>
+</svg>
