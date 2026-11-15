@@ -52,8 +52,8 @@
 
   <!-- name -->
   <g class="fade d2">
-    <text x="46" y="196" class="mono" font-size="64" font-weight="700" fill="#F8FAFC" letter-spacing="-2">fhudint</text>
-    <rect x="330" y="146" width="30" height="56" fill="#22C55E" class="cursor"/>
+    <text x="46" y="196" class="mono" font-size="64" font-weight="700" fill="#F8FAFC" textLength="270" lengthAdjust="spacingAndGlyphs">fhudint</text>
+    <rect x="326" y="146" width="30" height="56" fill="#22C55E" class="cursor"/>
   </g>
 
   <!-- tagline -->
